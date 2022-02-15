@@ -148,3 +148,4 @@ cython_debug/
 
 # Datasets
 data/
+.virtual_documents/
