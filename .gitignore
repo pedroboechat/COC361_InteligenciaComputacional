@@ -146,6 +146,5 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# Datasets
-data/
+# Others
 .virtual_documents/
