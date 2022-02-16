@@ -4,7 +4,6 @@
 
 ### Requisitos
 
-- Criar um arquivo `.env` (no modelo do `example.env`) com suas [credenciais do Kaggle](https://www.kaggle.com/docs/api#authentication);
 - Python 3.6+;
 - Bibliotecas necessárias (`pip install -r requirements.txt`).
 
